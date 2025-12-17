@@ -111,11 +111,11 @@ Future Plans
 Planned improvements include:
 - Cross-season rolling support for Week 1 predictions
 - Preseason team strength priors
-- Additional features such as pace, penalty rates, and situational splits
-- Model upgrades using tree-based methods with calibrated probabilities
-- Persistent local caching to reduce startup time
+- Additional features such as pace, flag rates, and splits
+- Model upgrades using tree-based methods with probabilities
+- 2025 Season stas
+- Local CSV Stats upload
 - Multi-platform executable builds
-- Optional API layer for programmatic access
 
 ------------------------------------------------------------
 
