@@ -97,13 +97,14 @@ Evaluation metrics are printed directly to the terminal during execution.
 
 Project Structure
 
+```text
 .
-|-- main.py          Core application logic
-|-- README.md        Project documentation
-|-- .gitignore       Git exclusions
-|-- build/           PyInstaller build artifacts (ignored)
-|-- dist/            Executable output (ignored)
-
+├── main.py          # Core application logic
+├── README.md        # Project documentation
+├── .gitignore       # Git exclusions
+├── build/           # PyInstaller build artifacts (ignored)
+└── dist/            # Executable output (ignored)
+```
 ------------------------------------------------------------
 
 Future Plans
