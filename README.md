@@ -114,16 +114,17 @@ Planned improvements include:
 - Preseason team strength priors
 - Additional features such as pace, flag rates, and splits
 - Model upgrades using tree-based methods with probabilities
-- 2025 Season stas
-- Local CSV Stats upload
-- Multi-platform executable builds
+- 2025 season stats
+- Early 2026 season stats
+- Local CSV Stats upload for feature adding
+- Improved executable builds
 
 ------------------------------------------------------------
 
 Disclaimer
 
 This project is intended for educational and analytical purposes only.
-It is not designed for gambling or financial decision-making.
+It is not designed for gambling or financial decision-making. Use at your own risk.
 
 ------------------------------------------------------------
 
